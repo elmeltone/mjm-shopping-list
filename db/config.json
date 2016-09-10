@@ -1,6 +1,6 @@
 {
     "production": {
-        "url": "mongodb://elmeltone:123Onward@ds019063.mlab.com:19063/mjm-shopping-list"
+        "url": "mongodb://elmeltone:123Onward@ds049848.mlab.com:49848/mjm-shopping-list"
     },
     "development": {
         "url": "mongodb://localhost/mjm-shopping-list"
